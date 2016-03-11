@@ -1,7 +1,8 @@
 # Init
-git clone https://github.com/pepe999/Init
+## počáteční příprava projektu - v cmd v dané složce
 
-npm install
-
-grunt
+* git clone https://github.com/pepe999/Init
+* cd Init
+* npm install
+* grunt
 
