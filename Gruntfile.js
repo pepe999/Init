@@ -5,7 +5,7 @@ module.exports = function (grunt) { // obalovací funkce
         less: { // název úlohy a její nastavení 
             dev: { 
                 files: { 
-                    "parts/css/style.css": ["src/less/style.less" ] 
+                    "parts/css/style.css": ["src/less/index.less" ] 
                 } 
             } 
         } 
